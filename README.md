@@ -1,8 +1,9 @@
-# What-game-should-i-play
+# Random.Engine
 An engine based in javascript with elements from html. Soon including CSS.
 
+How to use:
+Go to https://thextremespectr.github.io/Random-Engine/index.html
 
 
-It is also available in Replit:
-https://whatgameshouldiplay.malcolmmcbain.repl.co
+It will soon be available in Replit
 
