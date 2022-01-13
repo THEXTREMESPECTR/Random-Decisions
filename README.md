@@ -1,4 +1,4 @@
-# Random.Engine
+# Random-Decisions
 An engine based in javascript with elements from html. Soon including CSS.
 
 How to use:
